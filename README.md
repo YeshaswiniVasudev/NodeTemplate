@@ -64,7 +64,7 @@ npm start
 [React D3 Trees](https://www.npmjs.com/package/react-d3-tree)
 
 ## Future Developments
-* Integrate additional features to present all information and perform all the functions, which are a part of the rest of the panels into the nodes card based visualization that will help eliminate panel view of data in whole.
+* Integrate additional features to the card to present all information and perform all the functions, which are a part of the rest of the panels, such that it will help eliminate panel view of data in whole.
 * Bring in modularity in the nodes, such that the size of the nodes remain fixed.
 
 
