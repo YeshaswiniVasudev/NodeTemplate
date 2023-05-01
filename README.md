@@ -1,6 +1,5 @@
 # BCH : ChRIS Node Visualization
-<img src="https://img.shields.io/badge/Version-1.0-informational.svg?logo=LOGO"> 
-<img src="https://img.shields.io/badge/License-MIT-informational.svg?logo=LOGO"> 
+<img src="https://img.shields.io/badge/Version-1.0-informational.svg?logo=LOGO"> <img src="https://img.shields.io/badge/License-MIT-informational.svg?logo=LOGO"> 
 
 # Description
 Expanding the ChRIS UI to visualize better the existing multi panel display of the node's information to an integrated card display of the data.
@@ -11,7 +10,9 @@ Expanding the ChRIS UI to visualize better the existing multi panel display of t
 
 > [ChRIS demo](https://nightly.chrisproject.org/)
 >> * Login credentials : 
+
 >>      Username: chris
+
 >>      Password: chris1234
 >> * Click “Run a Quick Workflow”
 >> * Click “demo-CS410”
