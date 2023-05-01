@@ -1,24 +1,28 @@
 # BCH : ChRIS Node Visualization
 <img src="https://img.shields.io/badge/Version-1.0-informational.svg?logo=LOGO"> <img src="https://img.shields.io/badge/License-MIT-informational.svg?logo=LOGO"> 
 
-# Description
 Expanding the ChRIS UI to visualize better the existing multi panel display of the node's information to an integrated card display of the data.
 
+## Description
+The existing ChRIS UI shows the node tree which is a visual representation of how the data is being processed through various programs. This node tree is present in the visualization panel. The UI includes various other panels each performing and presenting different information on the selected node.
 
-# ChRIS
+This project expands the UI and incorporates the node tree with each node represented as a card display. Each card includes information and functionality built-in which depicts what each node program is doing. 
+
+The integrated card display of the nodes aids in simpler content delivery of the data.
+
+
+## ChRIS
 > [Introduction to ChRIS](http://chrisproject.org/for-users)
 
 > [ChRIS demo](https://nightly.chrisproject.org/)
->> * Login credentials : 
-
->>      Username: chris
-
->>      Password: chris1234
+>> * Login credentials :
+    Username: chris
+    Password: chris1234
 >> * Click “Run a Quick Workflow”
 >> * Click “demo-CS410”
 
 
-# Usage
+## Usage
 Install the latest version of NodeJS.
 
 Clone the repo
@@ -33,7 +37,7 @@ Enter the folder
 cd ChRIS
 ```
 
-install the package in the existing node_modules directory
+Install the package in the existing node_modules directory
 
 ```
 npm install
@@ -45,17 +49,24 @@ run the project
 npm start
 ```
 
-# Examples
+## Examples
 
-# Tools and Technologies used
-React
-VS Code
-GitHub
+## Tools and Technologies used
+[React](https://react.dev/blog/2023/03/16/introducing-react-dev)
+
+[VS Code](https://code.visualstudio.com/download)
+
+[GitHub](https://github.com/IainWinter/ChRIS.git)
 
 
-# Documentation of Related Libraries
+## Documentation of Related Libraries
 
-# Future Developments
+[React D3 Trees](https://www.npmjs.com/package/react-d3-tree)
 
-# Requirements
+## Future Developments
+* Integrate additional features to present all information and perform all the functions, which are a part of the rest of the panels into the nodes card based visualization that will help eliminate panel view of data in whole.
+* Bring in modularity in the nodes, such that the size of the nodes remain fixed.
+
+
+
 
