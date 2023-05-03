@@ -49,8 +49,12 @@ run the project
 npm start
 ```
 
-## Examples
+## Existing ChRIS UI
+![Visualization panel](images/visualizationpanel2d.png)
 
+![Information panel](images/Informationpanel.png)
+
+![Image panel](images/Imagepanel)
 ## Tools and Technologies used
 [React](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
