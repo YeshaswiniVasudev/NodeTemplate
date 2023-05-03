@@ -52,9 +52,11 @@ npm start
 ## Existing ChRIS UI
 ![Visualization panel](images/visualizationpanel2d.png)
 
+<img src="images/visualizationpanel2d.png"  width="400" height="300">
+
 ![Information panel](images/Informationpanel.png)
 
-![Image panel](images/Imagepanel)
+![Image panel](images/Imagepanel.png)
 ## Tools and Technologies used
 [React](https://react.dev/blog/2023/03/16/introducing-react-dev)
 
