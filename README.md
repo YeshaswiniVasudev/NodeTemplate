@@ -57,7 +57,7 @@ npm start
 
 <img src="images/Imagepanel.png" alt="Image panel" width="400" height="300">
 
-
+## The Expanded UI
 
 ## Tools and Technologies used
 [React](https://react.dev/blog/2023/03/16/introducing-react-dev)
