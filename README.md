@@ -22,32 +22,41 @@ The integrated card display of the nodes aids in simpler content delivery of the
 >> * Click “demo-CS410”
 
 
+
 ## Usage
 Install the latest version of NodeJS.
 
 Clone the repo
 
 ```
-git clone "https://github.com/IainWinter/ChRIS.git" --recurse-submodule
+git clone https://github.com/IainWinter/ChRIS_ui -b PintoGideon-Integrate-Student-Workflow
 ```
 
 Enter the folder
 
 ```
-cd ChRIS
+cd ChRIS_ui
 ```
 
 Install the package in the existing node_modules directory
 
 ```
-npm install
+npm i
+```
+Only on windows
+
+```
+wsl -u root
 ```
 
 run the project
 
 ```
-npm start
+npm run-script dev
 ```
+
+Note dependencies: git, nodejs/npm,(only for windows) wsl
+
 
 ## Existing ChRIS UI
 
@@ -58,6 +67,7 @@ npm start
 <img src="images/Imagepanel.png" alt="Image panel" width="400" height="300">
 
 ## The Expanded UI
+<img src="images/newUI.png" alt="Image panel" width="400" height="300">
 
 ## Tools and Technologies used
 [React](https://react.dev/blog/2023/03/16/introducing-react-dev)
