@@ -83,7 +83,7 @@ Note dependencies: git, nodejs/npm,(only for windows) wsl
 
 ## Future Developments
 * Integrate additional features to the card to present all information and perform all the functions, which are a part of the rest of the panels, such that it will help eliminate panel view of data in whole.
-* Bring in modularity in the nodes, such that the size of the nodes remain fixed.
+
 
 
 
